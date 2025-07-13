@@ -13,7 +13,7 @@ A simple and minimal URL shortener built with [FastAPI](https://fastapi.tiangolo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/avalos010/url-shortener.git
 cd url-shortener
 ```
 
